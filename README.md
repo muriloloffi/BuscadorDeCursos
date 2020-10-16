@@ -14,7 +14,15 @@ $ composer require muriloloffi/buscador-cursos
 
 ## Usage example
 
-Execute a php file with the following code:
+Through the command line, navigate to the folder where the package has been added and type the following:
+
+```console
+$ vendor\bin\buscar-cursos.php
+```
+
+### OR
+
+You can create a php file with the following code:
 
 ```console
 <?php

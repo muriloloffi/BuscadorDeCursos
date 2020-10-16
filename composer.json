@@ -3,6 +3,7 @@
     "description": "Projeto que busca os cursos no site da Alura para fins de aprendizado;",
     "type": "library",
     "license": "GPLv3",
+    "bin": ["buscar-cursos.php"],
     "authors": [
         {
             "name": "Murilo Loffi",
